@@ -43,4 +43,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+     <h4>games i play</h4>
+     <img align="center" alt="C" height="40" width="40" src="https://c1.alamy.com/thumbs/2cbyxtc/valorant-game-logo-icon-vector-eps-10-gaming-streamer-2cbyxtc.jpg">
+    <img align="center" alt="C" height="40" width="40" src="https://camo.githubusercontent.com/3d2e39ebf7e88bd1dfb977b074eb91f371c0bb97be1cad77ad306f812c580c1e/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6d696e6563726166742e737667">
   </div>
