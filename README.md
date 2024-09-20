@@ -26,7 +26,6 @@
 
 
 <!-- GithubStats -->
-![Thur GitHub stats](https://github-readme-stats.vercel.app/api?username=splot777&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=splot777)](https://github.com/splot777/github-readme-stats)
 
 <!-- GIF -->
