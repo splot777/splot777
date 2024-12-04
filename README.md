@@ -30,7 +30,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://giffiles.alphacoders.com/222/222022.gif" alt="Imagem">
+  <img align="center" src="https://i.pinimg.com/originals/f2/75/a1/f275a15580958851fd8f83ada2ffb83b.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
